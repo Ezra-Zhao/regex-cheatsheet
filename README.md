@@ -1,5 +1,7 @@
 # 正则表达式速查表 · Regex Cheatsheet
 
+[![Stars](https://img.shields.io/github/stars/Ezra-Zhao/regex-cheatsheet?style=social)](https://github.com/Ezra-Zhao/regex-cheatsheet/stargazers) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) ![Languages](https://img.shields.io/badge/languages-3-blue)
+
 > 🌍 [Español](README.es.md) · [Português](README.pt.md)
 
 一份**一页纸**的正则表达式速查表：30 个条目，每个条目只讲三件事——**它匹配什么、一条能直接复制的模式、适用场景标签**。以 PCRE / Python / JavaScript 通用语法为准，引擎有差异的地方如实注明。不灌水，不凑数。
